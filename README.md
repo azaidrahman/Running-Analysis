@@ -39,4 +39,4 @@ The first step in this project was to clean the Strava data to make it suitable 
 
 ## Contact
 
-[Zaid] - [azaidrahman@gmail.com](azaidrahman@gmail.com)
+Zaid - [azaidrahman@gmail.com](azaidrahman@gmail.com)
